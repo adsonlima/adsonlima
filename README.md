@@ -1,4 +1,4 @@
-# Olá, meu nome é Adson Rodrigo! 👋
+# Olá, meu nome é Adson Lima! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adson-rodrigo-a92350111/)
 
