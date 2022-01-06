@@ -1,6 +1,8 @@
 # Olá, meu nome é Adson Lima! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adson-rodrigo-a92350111/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adsonrodrigo93@gmail.com)
+
 
 ![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=blue-green)
 
