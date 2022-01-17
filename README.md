@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adsonrodrigo93@gmail.com)
 
 
-![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=blue-green)
+![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
 
 
 ## Habilidades/Tecnologias que tenho domínio ou que estou aprendendo
