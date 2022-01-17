@@ -7,7 +7,7 @@
 ![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
 
 
-## Habilidades/Tecnologias que tenho domínio ou que estou aprendendo
+## Ferramentas/Tecnologias que tenho domínio ou que estou aprendendo
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,9 +17,3 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonlima&layout=compact&theme=blue-green)](https://github.com/adsonlima/github-readme-stats)
-
-<div>
-<a href="https://github.com/adsonlima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonlima&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
