@@ -6,6 +6,7 @@
 
 
 ![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adsonlima&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonlima&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Ferramentas/Tecnologias que tenho domínio ou que estou aprendendo
@@ -16,5 +17,3 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonlima&layout=compact&theme=blue-green)](https://github.com/adsonlima/github-readme-stats)
