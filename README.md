@@ -2,11 +2,11 @@
 
 ---
 
-### **Desenvolvedor de Software | Especialista em Desenvolvimento Mobile iOS**
+### **Desenvolvedor de Software | Foco em Desenvolvimento Mobile**
 
-Profissional de tecnologia com **8 anos de experiência na área**, em transição de carreira de Suporte para **Desenvolvimento de Sistemas**. Tenho experiência no ciclo completo de desenvolvimento de software, desde a concepção de um produto até a sua publicação em loja de aplicativos.
+Profissional de tecnologia com **10 anos de experiência na área**, em transição de carreira de Suporte para **Desenvolvimento de Sistemas**. Minha principal área de interesse e estudo é o desenvolvimento **iOS (Swift e SwiftUI)**. Tenho experiência no ciclo completo de desenvolvimento de software, desde a concepção de um produto até a sua publicação em loja de aplicativos.
 
-Minha principal especialidade é o desenvolvimento **iOS (Swift e SwiftUI)**. Atualmente, estou expandindo meus conhecimentos em **Kotlin e Kotlin Multiplatform** para trabalhar com desenvolvimento nativo e cross-platform, com o objetivo de construir soluções de alta qualidade.
+Atualmente, estou expandindo meus conhecimentos em **Kotlin e Kotlin Multiplatform** para trabalhar com desenvolvimento nativo e cross-platform, com o objetivo de construir soluções de alta qualidade.
 
 ---
 
@@ -20,7 +20,6 @@ Minha principal especialidade é o desenvolvimento **iOS (Swift e SwiftUI)**. At
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="REST" src="https://img.shields.io/badge/REST-02303A?style=for-the-badge&logo=rest&logoColor=white" />
 </div>
 
 <br />
